@@ -1,5 +1,8 @@
 # Hola 👋, Yo soy Juan Carlos #
 
+Desarrollador de Software a la medida del cliente y docente de informática
+
+### Mis herramientas de desarrollo actualmente son ###
 
 <!--
 ### Hi there 
