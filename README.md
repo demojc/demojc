@@ -1,8 +1,12 @@
+<image src="https://github.com/demojc/demojc/blob/main/banner.png" alt="Banner">
+  
 # Hola 👋, Yo soy Juan Carlos #
 
-Desarrollador de Software a la medida del cliente y docente de informática
-
+Desarrollador de Software a la medida del cliente y docente de informática en México
+  
 ### Mis herramientas de desarrollo actualmente son ###
+  
+<image src="https://github.com/demojc/demojc/blob/main/html.png" alt="HTML" width="32"> <image src="https://github.com/demojc/demojc/blob/main/css.png" alt="CSS"  width="32"> <image src="https://github.com/demojc/demojc/blob/main/js.png" alt="JavaScript" width="32"> <image src="https://github.com/demojc/demojc/blob/main/php.png" alt="PHP" width="32"> <image src="https://github.com/demojc/demojc/blob/main/java.png" alt="Java" width="32">
 
 <!--
 ### Hi there 
