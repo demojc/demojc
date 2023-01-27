@@ -1,6 +1,8 @@
-### Hi there 👋
+# Hola 👋, Yo soy Juan Carlos #
+
 
 <!--
+### Hi there 
 **demojc/demojc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
