@@ -6,7 +6,7 @@ Desarrollador de Software a la medida del cliente y docente de informática en M
   
 ### Mis herramientas de desarrollo actualmente son ###
   
-<image src="https://github.com/demojc/demojc/blob/main/html.png" alt="HTML" width="32"> <image src="https://github.com/demojc/demojc/blob/main/css.png" alt="CSS"  width="32"> <image src="https://github.com/demojc/demojc/blob/main/js.png" alt="JavaScript" width="32"> <image src="https://github.com/demojc/demojc/blob/main/php.png" alt="PHP" width="32"> <image src="https://github.com/demojc/demojc/blob/main/java.png" alt="Java" width="32"> <image src="https://github.com/demojc/demojc/blob/main/c-.net_.png" alt="Java" width="50">
+<image src="https://github.com/demojc/demojc/blob/main/html.png" alt="HTML" width="64"> <image src="https://github.com/demojc/demojc/blob/main/css.png" alt="CSS"  width="64"> <image src="https://github.com/demojc/demojc/blob/main/js.png" alt="JavaScript" width="64"> <image src="https://github.com/demojc/demojc/blob/main/php.png" alt="PHP" width="64"> <image src="https://github.com/demojc/demojc/blob/main/java.png" alt="Java" width="64"> <image src="https://github.com/demojc/demojc/blob/main/c-.net_.png" alt="Java" width="70">
 
 <!--
 ### Hi there 
