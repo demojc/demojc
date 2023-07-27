@@ -1,6 +1,6 @@
 <image src="https://github.com/demojc/demojc/blob/main/banner.png" alt="Banner">
   
-# Hola 👋, Yo soy Juan Carlos #
+# Hola 👋, soy Juan Carlos #
 
 Desarrollador de Software a la medida del cliente y docente de informática en México
   
